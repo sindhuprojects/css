@@ -1,0 +1,44 @@
+.whats{
+    color: green;
+    font-size:50px;
+    padding-top:10px;
+    margin-left:220px;
+
+    width: 38px;
+    height: 40px;
+    text-align:center;
+    border-radius:25px;
+    margin-top:10px;
+}
+.what{
+    color: red;
+    font-size:50px;
+    padding-top:10px;
+    margin-left:20px;
+    width: 40px;
+    height: 40px;
+    text-align:center;
+    border-radius:20px;
+
+}
+.wha{
+    color: palevioletred;
+    font-size:50px;
+    padding-top:10px;
+    margin-left:20px;
+    width: 40px;
+    height: 40px;
+    text-align:center;
+    border-radius:20px;
+}
+
+.a1{
+    width:100%;
+    height:90px;
+    border:black solid 2px;
+    padding-left:130px;
+    color:aqua;
+    font-size:40px;
+    background-color: blueviolet;
+    
+}
