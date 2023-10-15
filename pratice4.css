@@ -1,0 +1,25 @@
+body{
+    background: pink;
+}.a1{
+    float:left;
+    border: solid;
+    margin:10px 0px 0px 0px;
+    margin-left:50px;
+    background-color: darkgreen;
+    height:250px;
+}
+.a1 p{
+    text-align: center;
+}
+.a1 h3{
+    text-align: center;
+    color:red;
+}
+.a1 img{
+    width:150px;
+    height:100px;
+}
+.abc{
+    background-color: #a8e208;
+    height:550px;
+}
