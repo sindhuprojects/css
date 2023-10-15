@@ -1,0 +1,127 @@
+/*.f1{
+    animation-name:f1;
+    animation-duration: 20s;
+    animation-delay:0s;
+}
+@keyframes f1{
+    from{
+        transform:translateX(0px);
+    }
+    to{
+        transform:translateX(20px);
+    }
+} 
+.f2{
+    animation-name:f2;
+    animation-duration:20s;
+    animation-delay:0s;
+}
+@keyframes f2{
+    from{
+        transform:translateY(0px);
+    }
+    to{
+        transform:translateY(20px);
+    }
+}
+.f3{
+    animation-name:f3;
+    animation-duration: 20s;
+    animation-delay: 0s;
+    animation-iteration-count: 10;
+    height:50px;
+    width:60px;
+}
+@keyframes f3{
+    from{
+        transform: rotate(0);
+    }
+    to{
+        transform:rotate(360deg);
+    }
+}
+.f4{
+    animation-name:f4;
+    animation-duration: 20s;
+    animation-delay: 0s;
+    margin-top:200px;
+    animation-iteration-count: infinite;
+}
+@keyframes f4{
+    from{
+        transform:rotate(0);
+    }
+    to{
+        transform:rotate(360deg);
+    }
+}*/
+/*.f5{
+    animation-name:f5;
+    animation-duration:20s;
+    animation-delay:0s;
+    animation-iteration-count: infinite;
+  
+}
+@keyframes f5{
+    0%{
+        transform:translateX(0px);
+    }
+    20%{
+        transform:translateX(0px);
+    }
+    40%{
+        transform:translateX(0px);
+    }
+    60%{
+        transform:translateX(40px);
+    }
+    80%{
+        transform:translateX(0px);
+    }
+    100%{
+        transform:translateX(0px);
+    }
+}
+.f6{
+    animation-name:f6;
+    animation-duration: 20s;
+    animation-delay:0s;
+    animation-iteration-count:infinite;
+}
+@keyframes f6 {
+    0%{
+        transform:translateY(0px);
+    }
+    20%{
+        transform:translateY(0px);
+    }
+    40%{
+        transform:translateY(0px);
+    }
+    60%{
+        transform:translateY(50px);
+    }
+    80%{
+        transform:translateY(0px);
+    }
+    100%{
+        transform:translateY(0px);
+    }
+}
+.f7{
+    transition: 3px;
+    transition-duration: 20px;
+    transition-delay:0s;
+}
+.f7:hover{
+    transform:translateX(30px);
+}*/
+.f8{
+    transition: 3s;
+    transition-duration: 20s;
+    transition-delay: 0s;
+    font-size:20px;
+    transform:translateY(120px);
+    animation-iteration-count: infinite;
+    border:solid 2px black;
+}
